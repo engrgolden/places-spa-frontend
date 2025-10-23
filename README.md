@@ -15,4 +15,4 @@ Built with Next.js, and Tailwind CSS for speed, reliability, and great developer
 
 🎨 Styled with Tailwind CSS
 
-https://engrgolden-places.netlify.app/
+https://engrgolden-places.netlify.app/ https://places-spa-frontend.vercel.app/
