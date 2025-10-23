@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  scrollbar-width: none;
+}
+
+body {
+  margin: 0;
+  background: #4d4d4d;
+  -ms-overflow-style: none;
+}
